@@ -16,7 +16,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B9D2ED163078998F003B4689"
-               BuildableName = "ios-music-app.app"
+               BuildableName = "Memeification.app"
+               BlueprintName = "Memeification"
                ReferencedContainer = "container:Memeification.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,7 +46,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B9D2ED163078998F003B4689"
-            BuildableName = "ios-music-app.app"
+            BuildableName = "Memeification.app"
+            BlueprintName = "Memeification"
             ReferencedContainer = "container:Memeification.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -61,7 +63,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B9D2ED163078998F003B4689"
-            BuildableName = "ios-music-app.app"
+            BuildableName = "Memeification.app"
+            BlueprintName = "Memeification"
             ReferencedContainer = "container:Memeification.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
