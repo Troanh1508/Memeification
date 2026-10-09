@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		B9D2ED193078998F003B4689 /* ios-music-app */ = {
+		B9D2ED193078998F003B4689 /* Memeification */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "ios-music-app";
+			path = Memeification;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -30,7 +30,7 @@
 		B9D2ED0E3078998E003B4689 = {
 			isa = PBXGroup;
 			children = (
-				B9D2ED193078998F003B4689 /* ios-music-app */,
+				B9D2ED193078998F003B4689 /* Memeification */,
 				B9D2ED183078998F003B4689 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -57,7 +57,7 @@
 			buildRules = (
 			);
 			fileSystemSynchronizedGroups = (
-				B9D2ED193078998F003B4689 /* ios-music-app */,
+				B9D2ED193078998F003B4689 /* Memeification */,
 			);
 			name = "ios-music-app";
 			productName = "ios-music-app";
@@ -79,7 +79,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B9D2ED123078998E003B4689 /* Build configuration list for PBXProject "ios-music-app" */;
+			buildConfigurationList = B9D2ED123078998E003B4689 /* Build configuration list for PBXProject "memeification" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -115,7 +115,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		B9D2ED2030789990003B4689 /* Debug configuration for PBXProject "ios-music-app" */ = {
+		B9D2ED2030789990003B4689 /* Debug configuration for PBXProject "memeification" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -176,7 +176,7 @@
 			};
 			name = Debug;
 		};
-		B9D2ED2130789990003B4689 /* Release configuration for PBXProject "ios-music-app" */ = {
+		B9D2ED2130789990003B4689 /* Release configuration for PBXProject "memeification" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -240,6 +240,8 @@
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Memeification;
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Memeification saves memes you download to your photo library.";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -255,7 +257,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 27.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "forthepeople.ios-music-app";
+				PRODUCT_BUNDLE_IDENTIFIER = forthepeople.Memeification;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
@@ -282,6 +284,8 @@
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Memeification;
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "Memeification saves memes you download to your photo library.";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -297,7 +301,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 27.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "forthepeople.ios-music-app";
+				PRODUCT_BUNDLE_IDENTIFIER = forthepeople.Memeification;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
@@ -316,11 +320,11 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B9D2ED123078998E003B4689 /* Build configuration list for PBXProject "ios-music-app" */ = {
+		B9D2ED123078998E003B4689 /* Build configuration list for PBXProject "memeification" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B9D2ED2030789990003B4689 /* Debug configuration for PBXProject "ios-music-app" */,
-				B9D2ED2130789990003B4689 /* Release configuration for PBXProject "ios-music-app" */,
+				B9D2ED2030789990003B4689 /* Debug configuration for PBXProject "memeification" */,
+				B9D2ED2130789990003B4689 /* Release configuration for PBXProject "memeification" */,
 			);
 			defaultConfigurationName = Release;
 		};
